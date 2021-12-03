@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Syed-Adeel-Haider
+- 👋 Hi, I’m @Adeel Naqvi
 - 👀 I’m interested in Coding & Networking
 - 🌱 I’m currently learning BS-Information Technology
 - 💞️ I’m looking to collaborate on MAD,Database,NSA,WEB.
